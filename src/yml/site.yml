@@ -1,0 +1,25 @@
+name: LonTon
+title: LonTon | Ký ức tuổi thơ
+description: LonTon luôn cập nhật, chia sẻ những thông điệp vui vẻ mang đến cho bạn tinh thần thoải mái trong cuộc sống, khi gợi nhớ lại những kí ức, cảm xúc về tuổi thơ trong mỗi chúng ta.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Bài viết
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
