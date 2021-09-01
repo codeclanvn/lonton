@@ -107,12 +107,13 @@ exclude: [
 version: v3.1.1
 
 
-button:
-  read_now: Đọc luôn
-pagination:
-  next_post: Bài viết tiếp theo
-  next_page: Trang sau
-  page: Trang
-  of: tới
-recommendation:
-  back_btn: Lên đầu trang
+translations:
+  button:
+    read_now: Đọc luôn
+  pagination:
+    next_post: Bài viết tiếp theo
+    next_page: Trang sau
+    page: Trang
+    of: tới
+  recommendation:
+    back_btn: Lên đầu trang
