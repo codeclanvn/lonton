@@ -12,7 +12,7 @@
         <a href="{{ author.url }}">{{ author.display_name }}</a>
       </h3>
       <p class="desc">{{ author.bio }}</p>
-      <p>
+      <!-- <p>
         {% if author.github_username %}
           <a href="https://github.com/{{ author.github_username }}" title="Github">
             <svg><use xlink:href="#icon-github"></use></svg>
@@ -43,11 +43,11 @@
             <svg><use xlink:href="#icon-linkedin"></use></svg>
           </a>
         {% endif %}
-      </p>
+      </p> -->
     </div>
   </section>
 
-  {% assign author_urls = '' %}
+  <!-- {% assign author_urls = '' %}
   {% if author.github_username %}
       {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
   {% endif %}
@@ -65,7 +65,7 @@
   {% endif %}
   {% if author.linkedin_username %}
       {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
-  {% endif %}
+  {% endif %} -->
 
   <script type="application/ld+json">
   {
