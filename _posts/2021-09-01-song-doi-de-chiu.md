@@ -5,7 +5,7 @@ title: Sống Đời Dễ Chịu
 subtitle: Sống Đời Dễ Chịu
 description: seo content
 image: https://news33.info/wp-content/uploads/2021/08/song-doi-de-chiu-new33.info-6.jpg
-category: blog
+category: chia-se
 author: pikachu
 paginate: false
 ---

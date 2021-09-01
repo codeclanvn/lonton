@@ -5,7 +5,7 @@ title: Những kí ức về tuổi thơ
 subtitle: Những kí ức về tuổi thơ
 description: Tuổi thơ tôi là những con chữ ê a khi đến trường, là những bức tranh vẽ làng quê, con gà, con trâu, là những bài thể dục buổi sáng mà cô giáo dạy... Tuổi thơ của tôi là một cánh đồng bát ngát hoa, là những cánh diều dập dìu cùng mây và gió.
 image: http://s1.img.yan.vn/Mlog/ImageContent/201409/234455b8-cb01-4fb2-9a87-a97ad198bde4.jpg
-category: blog
+category: tuoi-tho
 author: pikachu
 paginate: false
 ---

@@ -4,8 +4,10 @@ layout: post
 title: Tập Buông Trong Cuộc Sống để “Sống Đời Bình An"
 description: Chấp nhận buông bỏ để có cuộc sống tốt đẹp hơn, nhẹ nhàng hơn
 image: /assets/img/uploads/hoc-cach-buong-xuoi-trong-cuoc-song-new33.info_.png
-category: blog
-tags: []
+category: chia-se
+tags: 
+  - bình an
+  - cuộc sống
 author: pikachu
 paginate: false
 ---

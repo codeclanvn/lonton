@@ -2,6 +2,6 @@
 layout: category
 title: Blog
 slug: blog
-description: A category for general blog posts.
+description: Danh mục cho những bài viết về blog
 ---
 
