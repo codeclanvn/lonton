@@ -13,8 +13,8 @@ menu:
   #   url: /about
   # - title: Contact
   #   url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 email: vanha.ptit@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
