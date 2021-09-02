@@ -2,19 +2,17 @@ name: LonTon
 title: LonTon | Ký ức tuổi thơ
 description: LonTon luôn cập nhật, chia sẻ những thông điệp vui vẻ mang đến cho bạn tinh thần thoải mái trong cuộc sống, khi gợi nhớ lại những kí ức, cảm xúc về tuổi thơ trong mỗi chúng ta.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - chia sẻ
+  - thông điệp
+  - ký ức
 show_hero: true
 menu:
   - title: Bài viết
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  # - title: About
+  #   url: /about
+  # - title: Contact
+  #   url: /contact
   - title: Feed
     url: /feed.xml
 email: vanha.ptit@gmail.com

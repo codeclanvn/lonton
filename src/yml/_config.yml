@@ -11,16 +11,18 @@
 # Advanced Settings
 #=include advanced.yml
 
+#=include translations.yml
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:title.html
 collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
-use_logo: true
+use_logo: false
 
 # Content paginator
 paginate_content:
@@ -64,58 +66,4 @@ exclude: [
 
 # Theme
 version: v3.1.1
-
-translations:
-  text:
-    new_post: Bài viết mới
-    see_also: Xem thêm
-    search: Tìm kiếm
-    author: Tác giả
-    share: Chia sẻ
-    comments: Bình luận
-  button:
-    read_now: Đọc luôn
-    share_on_twitter: Chia sẻ bài lên Twitter
-    share_on_facebook: Chia sẻ bài lên Facebook
-  pagination:
-    page: Trang
-    of: đến
-    next_page: Đi tiếp
-    next_post: Lùi lại
-  recommendation:
-    text: Bạn muốn đọc tiếp chứ?
-    back_btn: Trở lên đầu trang
-  error_404:
-    title: Oh không thấy bài đâu rồi :(
-    message: Xin lỗi nhé!. Bạn vui lòng đọc tạm bài khác nhé.
-    image_alt: 404 - Oh không thấy bài đâu rồi
-  contact:
-    title: Nói chuyện với tôi
-    subject: Liên lạc mới!
-    submit_btn: Gửi
-    placeholders:
-      name: Tên của bạn là gì
-      email: Nhập vào hòm thư của bạn
-      message: Nội dung nhắn gửi
-    errors:
-      locale: vi
-      empty_name: Vui lòng nhập tên
-      empty_email: Vui lòng nhập email
-      invalid_email: Email không đúng định dạng
-      empty_message: Hãy nhập nội dung
-    after_send:
-      title: Đã gửi đi!
-      message: Cảm ơn bạn đã gửi thông tin. Chúng tôi sẽ phản hồi lại sớm nhất có thể.
-button:
-  read_now: Đọc luôn
-pagination:
-  next_post: Bài viết tiếp theo
-  next_page: Trang sau
-  page: Trang
-  of: đến
-recommendation:
-  back_btn: Lên đầu trang
-contact:
-  errors:
-    locale: vi
 
