@@ -25,6 +25,6 @@ Lỡ khi phải chịu thiệt thòi, hãy mỉm cười đón nhận như một
 > ## *Người hay mỉm cười, cuộc đời sẽ tươi đẹp.*
 Người luôn tươi cười, cuộc đời sẽ tươi đẹp. Dù trải qua bất cứ chuyện gì, cũng sẽ có tầm nhìn rộng mở; gặp chuyện phiền phức đến đâu, rồi cũng giải quyết được. Nên đừng bao giờ vì tí chuyện không đáng mà ủ rũ không vui, cũng đừng vì chút khó khăn mà dễ dàng bỏ cuộc.
 
-{% figure_url {"image": "https://news33.info/wp-content/uploads/2021/09/mim-cuoi-trong-cuoc-song11-22-1.jpg"} %}
+![](https://news33.info/wp-content/uploads/2021/09/mim-cuoi-trong-cuoc-song11-22-1.jpg)
 
 Người lạc quan tích cực sẽ luôn đong đầy năng lượng an vui, khiến người nhẹ nhàng khi kết giao, thanh thản khi ở gần và vui vẻ khi nhắc đến…
