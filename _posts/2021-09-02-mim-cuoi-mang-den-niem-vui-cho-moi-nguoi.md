@@ -1,7 +1,7 @@
 ---
 date: 2021-09-02 10:09:32
 layout: post
-title: Hãy cứ vui cười bạn nhé
+title: Mỉm Cười Mang Đến Niềm Vui Cho Ta và Cho Mọi Người
 subtitle: "Tục ngữ có câu: Một nụ cười trẻ ra mười tuổi, một đêm sầu bạc trắng
   mái tóc xanh."
 description: mo ta
@@ -23,8 +23,9 @@ Khi gặp mâu thuẩn trong cuộc sống, hãy mỉm cười như một sự n
 Lỡ khi phải chịu thiệt thòi, hãy mỉm cười đón nhận như một sự trưởng thành. Việc đời khó lường, lòng người khó đoán, nếu không trải qua một vài việc, bạn không thể hiểu một vài người. Nếu không phải chịu chút thiệt thòi, bạn sẽ không học được cách phòng vệ.
 
 > ## *Người hay mỉm cười, cuộc đời sẽ tươi đẹp.*
+
 Người luôn tươi cười, cuộc đời sẽ tươi đẹp. Dù trải qua bất cứ chuyện gì, cũng sẽ có tầm nhìn rộng mở; gặp chuyện phiền phức đến đâu, rồi cũng giải quyết được. Nên đừng bao giờ vì tí chuyện không đáng mà ủ rũ không vui, cũng đừng vì chút khó khăn mà dễ dàng bỏ cuộc.
 
-![](https://news33.info/wp-content/uploads/2021/09/mim-cuoi-trong-cuoc-song11-22-1.jpg)
+{% figure_url {"image": "https://news33.info/wp-content/uploads/2021/09/mim-cuoi-trong-cuoc-song11-22-1.jpg"} %}
 
 Người lạc quan tích cực sẽ luôn đong đầy năng lượng an vui, khiến người nhẹ nhàng khi kết giao, thanh thản khi ở gần và vui vẻ khi nhắc đến…
